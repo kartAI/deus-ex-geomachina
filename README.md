@@ -6,6 +6,9 @@
 </div>
 
 # 🦜Deus ex geomachina - Lær hvordan bruke språkmodeller til å få geomatikk-superkrefter 🗺️
+<a target="_blank" href="https://colab.research.google.com/github/kartAI/deus-ex-geomachina/blob/main/deus_ex_geomachina.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 Hvordan unngår du hallusinering? Hvordan kan språkmodeller gjøre GIS-analyser? 
 
